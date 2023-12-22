@@ -1,0 +1,9 @@
+python3 test-1-cesar.py
+python3 test-2-vigenere-cipher.py
+python3 test-3-freq-IC.py
+python3 test-4-decalages.py
+python3 test-5-cryptanalyse-V1.py
+python3 test-6-ICM-decalages.py
+python3 test-7-cryptanalyse-V2.py
+python3 test-8-correlations.py
+python3 test-9-cryptanalyse-V3.py
